@@ -1,0 +1,13 @@
+	<tr>
+		<td colspan="3" align="center">
+			<div class="maintext">
+				<a href="/">home</a> | <a href="/about.php">about</a> | <a href="/contact.php">contact us</a><br />
+				<br />
+				<span class="smallertext">&copy; 2000-<?=date('Y')?>. All entries owned by the entrants. Steal anything else.</span>
+			</div>
+		</td>
+	</tr>
+</table>
+
+</body>
+</html>

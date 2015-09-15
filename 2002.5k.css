@@ -1,0 +1,127 @@
+div.list {
+margin-bottom:8px;
+}
+.ratingTable {
+background:none repeat scroll 0 0 #FFFFFF;
+margin-right:20px;
+}
+#discussiontable {
+text-decoration:none;
+}
+table.discussTable {
+}
+.dk_blue_bevel {
+display:none;
+}
+#ratingIFrame {
+border:0 none;
+height:0;
+width:0;
+}
+td {
+font-family:verdana;
+font-size:11px;
+}
+td.singleCell, td.leftCell {
+padding:0 30px 10px;
+}
+td.rightCell {
+padding:0 30px 10px 0;
+}
+td.titleCell {
+padding:0 0 10px 30px;
+}
+body {
+font-family:verdana;
+font-size:11px;
+margin:0;
+text-align:center;
+}
+table {
+margin:auto;
+}
+a {
+color:black;
+font-weight:bold;
+text-decoration:underline;
+}
+a:visited {
+color:black;
+font-weight:normal;
+text-decoration:underline;
+}
+p {
+margin:0 0 10px;
+padding:0;
+}
+#page {
+background:none repeat scroll 0 0 #FFFFFF;
+position:relative;
+text-align:left;
+top:-13px;
+}
+input.buttstyle {
+background:none repeat scroll 0 0 #CCCCCC;
+color:black;
+font-size:10px;
+}
+input.yellow {
+background:none repeat scroll 0 0 #FFCC00;
+border-color:black;
+border-style:solid;
+border-width:1px 2px 2px 1px;
+color:black;
+font-size:10px;
+padding:2px 5px;
+}
+h2.judgename {
+font-size:11px;
+font-weight:bold;
+margin-bottom:0;
+padding-bottom:0;
+}
+ul.faq li {
+margin-bottom:5px;
+}
+.edit input {
+background:none repeat scroll 0 0 #FFCC00;
+color:black;
+font-size:10px;
+}
+.edit form {
+margin:0;
+padding:0;
+}
+.edit textarea {
+background:none repeat scroll 0 0 #FFFFFF;
+border:0 solid black;
+display:block;
+font-family:verdana;
+font-size:11px;
+height:500px;
+margin:10px 0;
+width:100%;
+}
+.edit {
+background:none repeat scroll 0 0 #FFFFFF;
+display:none;
+margin:10px 0;
+width:100%;
+}
+
+p.winnerBox {
+background:none repeat scroll 0 0 black;
+border:1px solid white;
+color:white;
+font-size:14px;
+font-weight:bold;
+margin:0;
+padding:10px;
+text-align:center;
+}
+div.winnerBorder {
+background:none repeat scroll 0 0 black;
+border:1px solid black;
+margin:20px;
+padding:0;
+}
